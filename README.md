@@ -1,6 +1,6 @@
 
 
-![header](HW_1 Postman)
+[HW_1 Postman]
 
 
 
@@ -138,7 +138,7 @@ response:
                      'u_salary_5_years': salary * 4.2}
           }
           
-![header](HW_2 Postman)
+[HW_2 Postman]
 
 
 http://162.55.220.72:5005/first
